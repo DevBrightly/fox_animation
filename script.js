@@ -13,7 +13,7 @@ const spriteHeight = 600;
 let frameX = 0;
 let frameY = 0;
 let gameFrame = 0;
-const staggerFrames = 5;
+const staggerFrames = 7;
 
 let isAnimating = false;
 
