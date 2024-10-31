@@ -10,11 +10,79 @@ section {
     align-items: center;
     padding: 2rem;
     gap: 2rem;
-    flex-direction: column-reverse;
+    /* flex-direction: column-reverse; */
     height: 100vh;
     width: 100%;
-
+    position: relative;
+    overflow: hidden;
 }
+
+/* Character styling */
+.character {
+    position: absolute;
+    top: 50%;
+    right: -300px; /* Start off-screen */
+    transform: translateY(-50%);
+    animation: pop-in-out 5s ease-in-out;
+}
+
+
+/* By default, hide the closed-eye image */
+/* .closed {
+    display: none;
+  } */
+  
+  /* Full animation sequence for the container */
+  @keyframes pop-in-out {
+      0% {
+      right: -300px;
+      /* opacity: 0; */
+    }
+    25% {
+      right: 0;
+      opacity: 1;
+    }
+    50% {
+        right: 0;
+    }
+    75% {
+      right: 0;
+    }
+    100% {
+      right: -300px;
+      /* opacity: 0; */
+    }
+  }
+  
+  /* Blink effect to toggle images */
+  @keyframes blink {
+      0%, 100% {
+          display: none;
+          opacity: 0;
+        }
+        50% {
+        display: block;
+        opacity: 1;
+        z-index: 30;
+    }
+}
+
+.head {
+    position: relative;
+}
+/* Blink animation on the images */
+.open {
+    z-index: 20;
+}
+
+.closed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    animation: blink .3s steps(1) 2s forwards reverse;
+  }
+  
 
 #canvas1 {
     border: 5px solid black;
