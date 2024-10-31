@@ -8,12 +8,12 @@ const canvas = document.getElementById("canvas1");
 const ctx = canvas.getContext("2d");
 const CANVAS_WIDTH = canvas.width = 600;
 const CANVAS_HEIGHT = canvas.height = 600;
-const spriteWidth = 19200/32;
+const spriteWidth = 31800/53;
 const spriteHeight = 600;
 let frameX = 0;
 let frameY = 0;
 let gameFrame = 0;
-const staggerFrames = 7;
+const staggerFrames = 5;
 
 let isAnimating = false;
 
@@ -32,7 +32,7 @@ function animate(){
     // ctx.fillRect(50,50,100,100);
     ctx.drawImage(foxImg, frameX * spriteWidth, frameY, spriteWidth, spriteHeight, 0, 0, spriteWidth, spriteHeight);
     if (gameFrame % staggerFrames == 0) {
-        if (frameX < 33) frameX++;
+        if (frameX < 54) frameX++;
         else frameX = 0;    
     }
 
