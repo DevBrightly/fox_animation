@@ -41,7 +41,7 @@ section {
     /* border: 4px yellow solid; */
     width: 355px;
     height: 550px;
-    animation: slide-in-out 4s ease-in-out forwards;
+    animation: slide-in-out 4s ease-out forwards;
     /* transform: translateX(-175px); */
 
 }
@@ -92,14 +92,14 @@ section {
     flex-direction: column;
     z-index: 15;
     transform-origin: 50% 90%;
-    animation: head-rotate 4s ease-in-out forwards;
+    animation: head-rotate 4s ease-out forwards;
     position: relative;
     /* transform: rotate(-35deg) translate(-80px, -10%); */
 }
 
 .body {
     z-index: 10;
-    animation: body-rotate 4s ease-in-out forwards;
+    animation: body-rotate 4s ease-out forwards;
     transform-origin: 50% 90%;
     transform: translateY(10%);
     /* transform: rotate(-26deg) translate(10%,-25%); */
@@ -126,7 +126,7 @@ section {
     0%,100% {
         transform: rotate(0deg);
     }
-   50%,65% {
+   20%,65% {
     transform: rotate(-35deg) translate(-100px, -20%);
     }
 }
@@ -136,7 +136,7 @@ section {
     transform: translateY(10%);
     /* transform: rotate(0deg); */
     }
-    50%,65% {
+    20%,65% {
     transform: rotate(-26deg) translate(5%,10%);
     /* transform: rotate(-30deg); */
     }
@@ -148,7 +148,7 @@ section {
     /* transform: translate(7%,-30%) skewX(0deg); */
     }
     
-    50%,65% {
+    20%,65% {
     transform: translate(30%,-20%) skewX(20deg);
     /* transform: translate(80px,-30%) skewX(20deg); */
     }
@@ -158,7 +158,7 @@ section {
     0%, 100% {
         transform: translateX(0);
     }
-    50%,65% {
+    20%,65% {
     transform: translateX(-120px);
     }
 }
