@@ -17,13 +17,13 @@ section {
 
 .container {
     position: absolute;
-    /* right: -400px; */
+    right: -400px;
     height: 600px;
     width: 400px;
     display: flex;
     align-items: center;
     animation: opacity 5s steps(1) forwards;
-    border: 5px solid black;
+    /* border: 5px solid black; */
 }
 
 .character {
@@ -36,7 +36,7 @@ section {
     will-change: transform;
     animation: slide-in-out 4s ease-out 1s forwards;
     position: fixed;
-    border: 5px solid yellow;
+    /* border: 5px solid yellow; */
 }
 
 
