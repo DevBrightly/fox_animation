@@ -114,7 +114,7 @@ section {
     will-change: transform;
     transform: translate(8%,-20%);
     z-index: 5;
-    animation: leg-skew 4s ease-in-out 1s infinite forwards;
+    animation: leg-skew 4s ease-in-out 1s forwards;
     /* transform: translate(10%,-20%) skewX(20deg); */
 }
 
