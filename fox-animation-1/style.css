@@ -36,7 +36,7 @@ section {
     will-change: transform;
     animation: slide-in-out 4s ease-out 1s forwards;
     position: fixed;
-    /* border: 5px solid yellow; */
+    border: 5px solid yellow;
 }
 
 
