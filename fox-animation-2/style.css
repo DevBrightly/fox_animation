@@ -16,35 +16,35 @@ section {
 }
 
 .tail-container {
+    /* border: 5px solid black; */
     position: absolute;
-    bottom: 0;
-    position: fixed;
-    height: 100px;
-    width: 100%;
+    left: 0;
+    height: 200px;
+    width: 200px;
     display: flex;
     align-items: center;
-    animation: opacity 7s steps(1) forwards;
+    animation: opacity 6s steps(1) forwards;
 }
 
 .tail-body {
+    /* border: 5px solid yellow; */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 200px;
-    height: 100%;
-    bottom: -40%;
+    height: 200px;
+    width: 100%;
     position: absolute;
-    animation: slide-right 6s ease-in-out forwards;
-
+    animation: slide-right 5s ease-in-out 1s forwards;
+    transform: translateX(-100%);
 }
 
 .tail {
-    transform-origin: 50%;
+    transform-origin: 0%;
     position: absolute;
-    bottom: -20px;
+    /* bottom: -20px; */
     left: 0;
-    animation: tail-move .5s ease-in infinite;
+    animation: tail-move 2s ease-in-out infinite;
 }
 
 @keyframes opacity {
@@ -58,20 +58,20 @@ section {
 
 @keyframes tail-move {
     0%,100% {
-        transform: rotate(5deg);
+        transform: rotate(30deg);
     }
 
     50% {
-    transform: rotate(20deg);
+    transform: rotate(10deg);
     }
 }
 
 @keyframes slide-right {
-    0%{
+    0%,100%{
         transform: translateX(-100%);
     }
 
-    100% {
-    transform: translateX(100vw);
+    25%,50%,75% {
+    transform: translateX(-40%);
     }
 }
