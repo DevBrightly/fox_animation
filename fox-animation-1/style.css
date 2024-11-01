@@ -132,7 +132,7 @@ section {
     transform: translateY(0%);
     }
     20%,65% {
-    transform: rotate(-40deg) translateX(-30%);
+    transform: rotate(-40deg) translateX(-100px);
     }
 }
 
