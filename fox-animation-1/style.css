@@ -159,7 +159,7 @@ section {
     transform: translate(8%,-20%);
     }
     
-    20%,65% {
+    20%,70% {
     transform: rotate(-10deg) translate(30%,10%) skewX(30deg);
     }
 }
