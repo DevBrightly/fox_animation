@@ -84,14 +84,14 @@ section {
     z-index: 15;
     transform-origin: 50% 90%;
     will-change: transform;
-    animation: head-rotate 4s ease-out 1s forwards;
+    animation: head-rotate 4s ease-in-out .9s forwards;
     position: relative;
 }
 
 .body {
     z-index: 10;
     will-change: transform;
-    animation: body-rotate 4s ease-out 1s forwards;
+    animation: body-rotate 4s ease-in-out 1s forwards;
     transform-origin: 50% 90%;
     transform: translateY(10%);
 
@@ -135,7 +135,7 @@ section {
     transform: translateY(10%);
     }
     20%,65% {
-    transform: rotate(-26deg) translate(5%,10%);
+    transform: rotate(-25deg) translate(5%,10%);
     }
 }
 
