@@ -47,6 +47,7 @@ section {
     gap: 10rem;
     position: absolute;
     transform: translateY(0%);
+    z-index: -20;
 }
 
 .ear-left {
