@@ -45,7 +45,7 @@ section {
     position: absolute;
     bottom: 0;
     transform: translateY(10%);
-    animation: slide-up 6s ease-in-out 1s forwards;
+    animation: slide-up 6.5s ease-in-out 1s forwards;
 }
 
 .rect {
@@ -134,7 +134,7 @@ section {
 .hands {
     display: flex;
     justify-content: center;
-    gap: 5rem;
+    gap: 7rem;
     position: absolute;
     transform: translateY(20%);
     z-index: 20;
