@@ -16,15 +16,16 @@ section {
 }
 
 .container {
-    position: absolute;
+    /* position: absolute; */
     /* right: -400px; */
     height: 600px;
     width: 400px;
-    display: flex;
+    /* display: flex; */
     align-items: center;
     justify-content: center;
     /* animation: opacity 5s steps(1) forwards; */
     /* border: 5px solid black; */
+    padding: 1rem;
 }
 
 .character {
@@ -49,10 +50,10 @@ section {
 
 .rect {
     position: absolute;
-    width: 80vw;
-    height: 400px;
+    width: 95vw;
+    height: 500px;
     top: 200px;
-    background-color: rgb(247, 237, 237);
+    background-color: rgb(247, 245, 245);
     /* background-color: red; */
     box-shadow: 0 0 20px rgba(0, 0, 0, .1);
     z-index: 100;
@@ -156,7 +157,7 @@ section {
 .fist {
     display: flex;
     justify-content: center;
-    gap: 20rem;
+    gap: 12rem;
     position: absolute;
     transform: translateY(-73px);
     z-index: 120;
