@@ -45,7 +45,8 @@ section {
     /* background-color: green; */
     position: absolute;
     bottom: 0;
-    animation: slide-up 6s ease-in-out forwards;
+    transform: translateY(10%);
+    animation: slide-up 6s ease-in-out 1s forwards;
 }
 
 .rect {
@@ -134,10 +135,12 @@ section {
 .hands {
     display: flex;
     justify-content: center;
-    gap: 20rem;
+    gap: 10rem;
     position: absolute;
-    transform: translateY(0%);
-    z-index: -20;
+    transform: translateY(20%);
+    z-index: 20;
+    /* animation: slide-up-down 6s forwards, hide-reveal 4s steps(1) .4s forwards; */
+    animation: slide-up-hand 1s ease-in-out forwards, hide-reveal 4s steps(1) .4s forwards, slide-down-hand 1s ease-in-out 7s forwards;
 }
 
 .hand-left {
@@ -161,6 +164,8 @@ section {
     position: absolute;
     transform: translateY(-73px);
     z-index: 120;
+    animation: reveal-hide 7s steps(1) forwards;
+    opacity: 0;
 }
 
 .fist-left {
@@ -295,6 +300,56 @@ section {
         transform: translateY(10%);
     }
     20%,65% {
-    transform: translateY(-40%);
+        transform: translateY(-40%);
+    }
+}
+
+@keyframes slide-up-down {
+    0%, 100% {
+        transform: translateY(20%);
+    }
+
+    20%,65% {
+        transform: translateY(-10%);
+    }
+}
+
+@keyframes hide-reveal {
+    0%, 100% {
+        opacity: 1;
+    }
+
+    20%,65% {
+        opacity: 0;
+    }
+}
+
+@keyframes reveal-hide {
+    0%, 100% {
+        opacity: 0;
+    }
+
+    10%,65% {
+        opacity: 1;
+    }
+}
+
+@keyframes slide-up-hand {
+    0%, 100% {
+        transform: translateY(20%);
+    }
+
+    50% {
+        transform: translateY(-10%);
+    }
+}
+
+@keyframes slide-down-hand {
+    0%{
+        transform: translateY(5%);
+    }
+
+    50%,100% {
+        transform: translateY(20%);
     }
 }

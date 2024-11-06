@@ -17,12 +17,12 @@ section {
 
 .container {
     position: absolute;
-    left: -400px;
+    /* left: -400px; */
     height: 600px;
     width: 400px;
     display: flex;
     align-items: center;
-    animation: opacity 5s steps(1) forwards;
+    /* animation: opacity 5s steps(1) forwards; */
     /* border: 5px solid black; */
 }
 
@@ -112,6 +112,13 @@ section {
     transform-origin: 50% 90%;
     transform: translateY(10%);
 
+}
+
+.hand-right {
+    position: absolute;
+    /* z-index: 50; */
+    transform-origin: 50% 100%;
+    transform: translate(50px, -30px) rotate(120deg);
 }
 
 .legs {
