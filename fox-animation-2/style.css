@@ -17,12 +17,12 @@ section {
 
 .container {
     position: absolute;
-    /* left: -400px; */
+    left: -400px;
     height: 600px;
     width: 400px;
     display: flex;
     align-items: center;
-    /* animation: opacity 5s steps(1) forwards; */
+    animation: opacity 5s steps(1) forwards;
     /* border: 5px solid black; */
 }
 
@@ -70,7 +70,7 @@ section {
 .mouth {
     transform: translate(5%, 850%);
     z-index: 20;
-    animation: mouth-smile 4s steps(1) forwards;
+    animation: mouth-smile 5s steps(1) forwards;
     /* animation: eyes-close-open 2s steps(1) .1s forwards 3; */
     position: absolute;
 }
@@ -218,7 +218,7 @@ section {
         opacity: 0;
     }
     
-    50% {
+    20%,65% {
         opacity: 1;
     }
 }

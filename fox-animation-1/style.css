@@ -67,7 +67,7 @@ section {
 .mouth {
     transform: translate(5%, 850%);
     z-index: 20;
-    animation: mouth-smile 4s steps(1) forwards;
+    animation: mouth-smile 5s steps(1) forwards;
     position: absolute;
 }
 
@@ -201,7 +201,7 @@ section {
         opacity: 0;
     }
     
-    50% {
+    20%,65% {
         opacity: 1;
     }
 }
