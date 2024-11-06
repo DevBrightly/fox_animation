@@ -25,7 +25,6 @@ section {
     justify-content: center;
     /* animation: opacity 5s steps(1) forwards; */
     /* border: 5px solid black; */
-    padding: 1rem;
 }
 
 .character {
@@ -135,7 +134,7 @@ section {
 .hands {
     display: flex;
     justify-content: center;
-    gap: 10rem;
+    gap: 5rem;
     position: absolute;
     transform: translateY(20%);
     z-index: 20;
@@ -146,14 +145,14 @@ section {
 .hand-left {
     transform-origin: 50% 90%;
     will-change: transform;
-    transform: rotate(10deg);
+    transform: rotate(-10deg);
     z-index: 5;
 }
 
 .hand-right {
     transform-origin: 50% 90%;
     will-change: transform;
-    transform: rotate(-10deg);
+    transform: rotate(10deg);
     z-index: 5;
 }
 
