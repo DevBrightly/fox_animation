@@ -64,10 +64,11 @@ section {
     position: absolute;
     opacity: 0;
 }
+
 .mouth {
     transform: translate(5%, 850%);
     z-index: 20;
-    animation: mouth-smile 5s steps(1) forwards;
+    animation: mouth-smile 5s steps(1) 1s forwards;
     position: absolute;
 }
 
