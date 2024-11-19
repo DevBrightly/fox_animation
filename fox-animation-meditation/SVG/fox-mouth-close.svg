@@ -5,13 +5,13 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 60.621155 20.267699"
+   viewBox="0 0 63.42989 21.428267"
    xml:space="preserve"
    id="svg77"
-   sodipodi:docname="fox-mouth-smile.svg"
-   width="60.621155"
-   height="20.267698"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="fox-mouth-close.svg"
+   width="63.42989"
+   height="21.428267"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,87 +26,222 @@
    inkscape:pagecheckerboard="1"
    inkscape:deskcolor="#505050"
    inkscape:zoom="11.226666"
-   inkscape:cx="27.612827"
-   inkscape:cy="6.591449"
+   inkscape:cx="30.285037"
+   inkscape:cy="7.7494066"
    inkscape:window-width="1920"
-   inkscape:window-height="1051"
+   inkscape:window-height="991"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Mouth_copy_00000039111315703936657950000018133680472030840972_" />&#10;<style
+   inkscape:current-layer="Mouth_copy_00000039111315703936657950000018133680472030840972_" />
+<style
    type="text/css"
-   id="style1">&#10;	.st0{fill:#37342F;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}&#10;	.st1{fill:#F4EFDF;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}&#10;	.st2{fill:#A09989;}&#10;	.st3{fill:#756F65;}&#10;	.st4{fill:#F4EFDF;}&#10;	.st5{fill:#3A0F0F;}&#10;	.st6{fill:#3F0E0E;}&#10;	.st7{fill:none;stroke:#000000;stroke-width:0.4881;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}&#10;	.st8{stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}&#10;	.st9{fill:#262728;}&#10;	.st10{opacity:0.75;fill:#FFFFFF;}&#10;	.st11{fill:#AA9D7B;stroke:#000000;stroke-width:0.244;stroke-miterlimit:10;}&#10;	.st12{opacity:0.28;}&#10;	.st13{fill:#37342F;}&#10;	.st14{fill:#FFFFFF;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}&#10;	.st15{opacity:0.32;}&#10;	.st16{fill:#09568A;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}&#10;	.st17{fill:#000002;}&#10;	.st18{fill:#FAFFFF;}&#10;	.st19{fill:#030000;}&#10;	.st20{fill:#495D4A;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}&#10;	.st21{fill:#564D36;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}&#10;	.st22{fill:none;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}&#10;	.st23{fill:#817B66;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}&#10;	.st24{fill:#514E3F;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}&#10;	.st25{fill:#262314;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}&#10;	.st26{fill:#173A50;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}&#10;	.st27{opacity:0.86;fill:#7CA3B0;}&#10;</style>&#10;<g
+   id="style1">
+	.st0{fill:#37342F;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}
+	.st1{fill:#F4EFDF;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}
+	.st2{fill:#A09989;}
+	.st3{fill:#756F65;}
+	.st4{fill:#F4EFDF;}
+	.st5{fill:#3A0F0F;}
+	.st6{fill:#3F0E0E;}
+	.st7{fill:none;stroke:#000000;stroke-width:0.4881;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}
+	.st9{fill:#262728;}
+	.st10{opacity:0.75;fill:#FFFFFF;}
+	.st11{fill:#AA9D7B;stroke:#000000;stroke-width:0.244;stroke-miterlimit:10;}
+	.st12{opacity:0.28;}
+	.st13{fill:#37342F;}
+	.st14{fill:#FFFFFF;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}
+	.st15{opacity:0.32;}
+	.st16{fill:#09568A;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}
+	.st17{fill:#000002;}
+	.st18{fill:#FAFFFF;}
+	.st19{fill:#030000;}
+	.st20{fill:#495D4A;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}
+	.st21{fill:#564D36;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}
+	.st22{fill:none;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}
+	.st23{fill:#817B66;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}
+	.st24{fill:#514E3F;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}
+	.st25{fill:#262314;stroke:#000000;stroke-width:1.4642;stroke-miterlimit:10;}
+	.st26{fill:#173A50;stroke:#000000;stroke-width:1.9522;stroke-miterlimit:10;}
+	.st27{opacity:0.86;fill:#7CA3B0;}
+</style>
+<g
    id="Layer_1"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Layer_19"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Layer_20"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Tail"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="right_leg"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Left_leg"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="body"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="belt"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Face"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Left_ear"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Right_ear"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="White_mouth"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Closed_mouth"
-   transform="translate(-273.94744,-254.9)">&#10;	<g
-   id="Mouth_copy">&#10;	</g>&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+	<g
+   id="Mouth_copy">
+	</g>
+</g>
+<g
    id="Mouth"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="wide_opened_mouth"
-   transform="translate(-273.94744,-254.9)">&#10;	<g
-   id="Mouth_copy_2">&#10;	</g>&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+	<g
+   id="Mouth_copy_2">
+	</g>
+</g>
+<g
    id="Nose"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Nose_hair_2"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Nose_hair_1"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Eye_brow"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="white_part_of_eyes"
-   transform="translate(-273.94744,-254.9)">&#10;	<g
-   id="Eyes_opened_copy">&#10;	</g>&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+	<g
+   id="Eyes_opened_copy">
+	</g>
+</g>
+<g
    id="eyes_2"
-   transform="translate(-273.94744,-254.9)">&#10;	<g
-   id="Layer_29">&#10;	</g>&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+	<g
+   id="Layer_29">
+	</g>
+</g>
+<g
    id="eyes_1"
-   transform="translate(-273.94744,-254.9)">&#10;	<g
-   id="Layer_30">&#10;	</g>&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+	<g
+   id="Layer_30">
+	</g>
+</g>
+<g
    id="Opened_eye_cover"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Eyes_closed"
-   transform="translate(-273.94744,-254.9)">&#10;	<g
-   id="Eyes_copy">&#10;	</g>&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+	<g
+   id="Eyes_copy">
+	</g>
+</g>
+<g
    id="cap"
-   transform="translate(-273.94744,-254.9)">&#10;</g>&#10;<g
+   transform="translate(-273.94744,-253.75093)">
+</g>
+<g
    id="Glasses"
-   transform="translate(-273.94744,-254.9)">&#10;	<g
-   id="g77">&#10;		<g
-   id="g76">&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			<g
+   transform="translate(-273.94744,-253.75093)">
+	<g
+   id="g77">
+		<g
+   id="g76">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<g
    id="g78"><g
      id="Smiling"
-     transform="matrix(0.48768301,0,0,0.48768301,39.547779,-149.92567)">&#10;		<g
-   id="Mouth_copy_00000039111315703936657950000018133680472030840972_">&#10;			<path
+     transform="matrix(0.48768301,0,0,0.48768301,39.547779,-149.92567)">
+		<g
+   id="Mouth_copy_00000039111315703936657950000018133680472030840972_">
+			<path
    class="st27"
-   d="m 510.4,830.1 c 0,0 11.5,11.4 30.7,10.1 19.1,-1.3 24.3,-7.9 30.2,-8.8 5.9,-0.9 38.2,3.4 33.1,13.7 -5.1,10.3 -25.6,30.2 -67.9,26 -42.2,-4.2 -52.1,-13.4 -55.2,-20.8 -3.1,-7.4 4.4,-17.8 29.1,-20.2 z"
+   d="m 510.39999,830.1 c 0,0 11.5,11.4 30.7,10.1 19.1,-1.3 24.3,-7.9 30.2,-8.8 5.9,-0.9 48.42821,-13.40349 37.66616,13.7 -4.24159,10.68218 -30.16616,30.2 -72.46616,26 -42.2,-4.2 -52.1,-13.4 -55.2,-20.8 -3.1,-7.4 4.4,-17.8 29.1,-20.2 z"
    id="path297"
-   style="fill:#f4efdf;opacity:1" />&#10;			<path
-   d="m 574.73059,841.33059 c 1.1,-0.6 2.2,0.9 1.2,1.8 -9.59675,4.80455 -13.32191,8.24338 -28.22191,10.24338 -7.56861,1.03883 -21.77949,-3.74953 -8.20868,-3.57397 7.9,-0.5 11.3,-0.6 21,-3.5 3.2,-0.9 9.03059,-2.26941 14.23059,-4.96941 z"
-   id="path298"
-   sodipodi:nodetypes="cccccc" />&#10;		<path
-   d="m 510.81474,841.89151 c -1.1,-0.6 -2.2,0.9 -1.2,1.8 4.5583,3.46183 13.43539,7.86511 28.33539,9.86511 14.50917,0.39956 9.63348,-3.38424 7.56941,-3.93927 -7.9,-0.5 -10.66073,-0.2347 -20.36073,-3.1347 -3.2,-0.9 -9.14407,-1.89114 -14.34407,-4.59114 z"
-   id="path1"
-   sodipodi:nodetypes="cccccc" /></g>&#10;	</g></g>&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;			&#10;		</g>&#10;	</g>&#10;</g>&#10;</svg>
+   style="opacity:1;fill:#f4efdf"
+   sodipodi:nodetypes="ccsscsc" />
+			
+		<g
+   id="g1"
+   transform="translate(2.8986018)"><path
+     d="m 574.73059,841.33059 c 1.1,-0.6 2.2,0.9 1.2,1.8 -9.59675,4.80455 -13.32191,8.24338 -28.22191,10.24338 -7.56861,1.03883 -21.77949,-3.74953 -8.20868,-3.57397 7.9,-0.5 11.3,-0.6 21,-3.5 3.2,-0.9 9.03059,-2.26941 14.23059,-4.96941 z"
+     id="path298"
+     sodipodi:nodetypes="cccccc" /><path
+     d="m 510.81474,841.89151 c -1.1,-0.6 -2.2,0.9 -1.2,1.8 4.5583,3.46183 13.43539,7.86511 28.33539,9.86511 14.50917,0.39956 9.63348,-3.38424 7.56941,-3.93927 -7.9,-0.5 -10.66073,-0.2347 -20.36073,-3.1347 -3.2,-0.9 -9.14407,-1.89114 -14.34407,-4.59114 z"
+     id="path1"
+     sodipodi:nodetypes="cccccc" /></g></g>
+	</g></g>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</g>
+	</g>
+</g>
+</svg>
